@@ -65,14 +65,14 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1661186717,
+    "lastAccountSyncTimestamp": 0602484094,
     "myAppStateKeyId": "AAAAAE6O"
   },
   "keys": {
     "preKeys": {
       "1": {
         "private": {
-          "type": "Buffer"
+          "type": "Buffer",
           "data": "ODbeTTx5X3xH32szmWG8j6n54DI3R0d/JKgGORuUMl8="
         },
         "public": {
