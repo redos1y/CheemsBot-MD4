@@ -72,7 +72,7 @@
     "preKeys": {
       "1": {
         "private": {
-          "type": "Buffer",
+          "type": "Buffer"
           "data": "ODbeTTx5X3xH32szmWG8j6n54DI3R0d/JKgGORuUMl8="
         },
         "public": {
